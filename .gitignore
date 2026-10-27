@@ -1,0 +1,27 @@
+# Output
+Da_Pulire/
+Puliti/
+*.csv
+*.log
+silence_*.log
+
+# FFmpeg (scaricato automaticamente)
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+ffmpeg-*.zip
+tools/
+
+# File temporanei
+*.tmp
+*.zip
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
